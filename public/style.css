@@ -1,9 +1,8 @@
-@font-family {
-    font-family: Inter, Helvetica, sans-serif;
-}
 
 * {
     box-sizing: border-box;
+    font-family: 'Inter';
+    
 }
 
 body {
@@ -25,14 +24,16 @@ body {
 }
 
 .header-job {
-    color: #F3BF99;
+    color: #F47D27;
     font-size: 13px;
+    font-weight: 400;
     margin: 6px auto 9px auto;
 }
 
 .header-website {
     color: #4A4E74;
     margin: 9px auto 15px auto;
+    font-weight: 400;
 }
 
 nav {
@@ -51,7 +52,6 @@ nav {
     margin-right: 17px;
     background-color: #FFFFFF;
     border: 1px solid #D1D5DB;
-    
 }
 
 #nav-btn-2 {
@@ -75,10 +75,10 @@ nav {
 
 .main-title {
     position: relative;
-    left: 87px;
+    left: 42%;
     text-align: left;
     color: #2B283A;
-    font-size: 17px;
+    font-size: 28px;
     font-weight: 700;
     margin-top: 29px;
     margin-bottom: 5px;
@@ -87,8 +87,8 @@ nav {
 
 .main-desc {
     position: relative;
-    width: 65%;
-    left: 87px;
+    width: 18%;
+    left: 42%;
     text-align: left;
     color: #4A4E74;
     margin: 0;
