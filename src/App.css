@@ -15,6 +15,10 @@ body {
   height: 317px;
 }
 
+header {
+  margin-top: 50px;
+}
+
 .header-title {
   color: #2B283A;
   font-weight: 700;
